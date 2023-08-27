@@ -1,0 +1,58 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://beehives/game/beehive.gd" id="1_sbi0m"]
+[ext_resource type="Texture2D" uid="uid://v428jrst4ebt" path="res://beehives/tilemap_prompts_packed.png" id="2_fxulj"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_p2h4t"]
+atlas = ExtResource("2_fxulj")
+region = Rect2(16, 272, 16, 16)
+
+[sub_resource type="Animation" id="Animation_2fcmv"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("../Sprite2D:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_fvqr8"]
+resource_name = "float"
+length = 2.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("../Sprite2D:position")
+tracks/0/interp = 0
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1, 2),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 1,
+"values": [Vector2(0, 0), Vector2(0, 4), Vector2(0, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_jalue"]
+_data = {
+"RESET": SubResource("Animation_2fcmv"),
+"float": SubResource("Animation_fvqr8")
+}
+
+[node name="beehive" type="Node2D"]
+script = ExtResource("1_sbi0m")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = SubResource("AtlasTexture_p2h4t")
+offset = Vector2(0, -8)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Sprite2D"]
+libraries = {
+"": SubResource("AnimationLibrary_jalue")
+}

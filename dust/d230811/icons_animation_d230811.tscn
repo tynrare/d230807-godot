@@ -1,0 +1,67 @@
+[gd_scene load_steps=5 format=3 uid="uid://c8fkkdcn11mu6"]
+
+[ext_resource type="Material" path="res://dust/d230811/scene_d230808.tres" id="1_tgiv4"]
+[ext_resource type="SpriteFrames" uid="uid://oopqikrekc02" path="res://dust/d230808/spriteframe_animation_d230808.tres" id="2_044jv"]
+[ext_resource type="Script" path="res://dust/d230811/icons_animation_d230811.gd" id="3_ao068"]
+
+[sub_resource type="GDScript" id="GDScript_rdk08"]
+script/source = "extends ColorRect
+var mouse_hold = false;
+var mouse_hold_delta: Vector2;
+var mouse_hold_origin: Vector2;
+var single_click = false;
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	gui_input.connect(_on_gui_input);
+	mouse_entered.connect(_on_mouse_entered);
+	mouse_exited.connect(_on_mouse_exited);
+	pass # Replace with function body.
+
+func _on_gui_input(event):
+	var node = get_parent() as Node2D;
+	if event is InputEventMouseMotion:
+		if (mouse_hold):
+			single_click = false;
+			node.position = mouse_hold_origin + node.get_parent().get_local_mouse_position() - mouse_hold_delta;
+	if event is InputEventMouseButton:
+		mouse_hold = event.pressed;
+		if event.pressed:
+			single_click = true;
+			mouse_hold_origin = node.position;
+			mouse_hold_delta = node.get_parent().get_local_mouse_position()
+		elif single_click:
+			node.toggle_detain();
+
+func _on_mouse_entered():
+	get_node('..').turnon_phase();
+	pass
+	
+func _on_mouse_exited():
+	get_node('..').turnoff_phase();
+	
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta):
+	pass
+"
+
+[node name="icons_animation" type="AnimatedSprite2D"]
+material = ExtResource("1_tgiv4")
+sprite_frames = ExtResource("2_044jv")
+speed_scale = 0.5
+script = ExtResource("3_ao068")
+
+[node name="ColorRect4" type="ColorRect" parent="."]
+z_index = -1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -64.0
+offset_top = -64.0
+offset_right = -64.0
+offset_bottom = -64.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0)
+script = SubResource("GDScript_rdk08")

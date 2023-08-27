@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://crh6olubca4nn"]
+
+[ext_resource type="Texture2D" uid="uid://v428jrst4ebt" path="res://beehives/tilemap_prompts_packed.png" id="2_vrfhx"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_bmw8l"]
+atlas = ExtResource("2_vrfhx")
+region = Rect2(416, 256, 16, 16)
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_cd7e7"]
+radius = 11.0
+
+[node name="flowers" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = SubResource("AtlasTexture_bmw8l")
+
+[node name="Area2D" type="Area2D" parent="." groups=["gameobj_flower"]]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("CircleShape2D_cd7e7")

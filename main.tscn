@@ -1,0 +1,126 @@
+[gd_scene load_steps=11 format=3 uid="uid://djrunk84ogdug"]
+
+[ext_resource type="PackedScene" uid="uid://b775s821jvijr" path="res://beehives/scene.tscn" id="1_d704p"]
+[ext_resource type="PackedScene" uid="uid://c3xnnjd84m2dx" path="res://scene_selector.tscn" id="1_ecjuv"]
+[ext_resource type="FontFile" uid="uid://cwpr8u0l08evu" path="res://beehives/PublicPixel.otf" id="2_51er2"]
+[ext_resource type="PackedScene" uid="uid://b1y45lg5cwn3m" path="res://dust/d230814/scene_d230814.tscn" id="4_61lh6"]
+[ext_resource type="PackedScene" uid="uid://d122cx78wj2ry" path="res://dust/d230822/scene-d230822.tscn" id="5_h7438"]
+[ext_resource type="PackedScene" uid="uid://0yp1hfmpuujw" path="res://dust/d230808/scene_d230808.tscn" id="5_p0v7j"]
+[ext_resource type="PackedScene" uid="uid://2buijyjaqiil" path="res://dust/d230824/scene-d230824.tscn" id="6_dqyla"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_viqlh"]
+line_spacing = 1.0
+font_size = 64
+outline_color = Color(0, 0, 0, 1)
+shadow_color = Color(0, 0, 0, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_5x083"]
+font = ExtResource("2_51er2")
+font_size = 32
+outline_color = Color(0, 0, 0, 1)
+shadow_color = Color(0, 0, 0, 1)
+shadow_offset = Vector2(4, 4)
+
+[sub_resource type="GDScript" id="GDScript_vhlif"]
+script/source = "extends OptionButton
+
+var selector;
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	selector = get_parent().get_node(\"SubViewportContainer/SubViewport/scene_selector\");
+	for s in selector.scene_path:
+		var path = s.resource_path.split('/');
+		var name = path[path.size() - 1];
+		add_item(name);
+		
+	select(selector.active_scene)
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta):
+	pass
+
+
+func _on_item_selected(index):
+	selector.active_scene = index;
+	pass # Replace with function body.
+"
+
+[node name="main" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="SubViewportContainer" type="SubViewportContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+stretch = true
+stretch_shrink = 6
+
+[node name="SubViewport" type="SubViewport" parent="SubViewportContainer"]
+handle_input_locally = false
+snap_2d_vertices_to_pixel = true
+size = Vector2i(192, 108)
+render_target_update_mode = 4
+
+[node name="scene_selector" parent="SubViewportContainer/SubViewport" instance=ExtResource("1_ecjuv")]
+scene_path = Array[PackedScene]([ExtResource("1_d704p"), ExtResource("5_p0v7j"), ExtResource("4_61lh6"), ExtResource("5_h7438"), ExtResource("6_dqyla")])
+active_scene = 1
+
+[node name="Label4" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -273.0
+offset_top = -285.0
+grow_horizontal = 0
+grow_vertical = 0
+text = "トゥ 混沌
+複雑 "
+label_settings = SubResource("LabelSettings_viqlh")
+horizontal_alignment = 1
+
+[node name="Label3" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -192.0
+offset_bottom = 285.0
+grow_horizontal = 0
+text = "
+学名会
+炊心
+冒険事"
+label_settings = SubResource("LabelSettings_viqlh")
+horizontal_alignment = 1
+metadata/_edit_use_anchors_ = true
+
+[node name="Label" type="Label" parent="."]
+visible = false
+layout_mode = 0
+offset_left = 1.0
+offset_right = 769.0
+offset_bottom = 35.0
+text = "фывфыв"
+label_settings = SubResource("LabelSettings_5x083")
+
+[node name="SceneControls" type="OptionButton" parent="."]
+layout_mode = 0
+offset_right = 14.0
+offset_bottom = 20.0
+script = SubResource("GDScript_vhlif")
+
+[connection signal="item_selected" from="SceneControls" to="SceneControls" method="_on_item_selected"]

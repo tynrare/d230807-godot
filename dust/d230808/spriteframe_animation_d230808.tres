@@ -1,0 +1,2030 @@
+[gd_resource type="SpriteFrames" load_steps=490 format=3 uid="uid://oopqikrekc02"]
+
+[ext_resource type="Texture2D" uid="uid://n50ef2rpewx0" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_01.png" id="1_2y4ps"]
+[ext_resource type="Texture2D" uid="uid://ut6mur050ko4" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_01.png" id="2_2duls"]
+[ext_resource type="Texture2D" uid="uid://3pua7srj2eio" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_01.png" id="3_bhfod"]
+[ext_resource type="Texture2D" uid="uid://dvdgjwt43wq0h" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_01.png" id="4_6o2a4"]
+[ext_resource type="Texture2D" uid="uid://by5bmkv7hl8r5" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_91_t.PNG" id="4_gyjb6"]
+[ext_resource type="Texture2D" uid="uid://xbxjw1m0uq7d" path="res://assets/bagsanboxes/BagsAndBoxes_17_t.png" id="5_2aiey"]
+[ext_resource type="Texture2D" uid="uid://d3d20vtxpm173" path="res://assets/herbalicons/Herbal_Icons_png/roots/r_01.png" id="5_6xcuo"]
+[ext_resource type="Texture2D" uid="uid://8upybm7kg3h6" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_02.PNG" id="6_27or0"]
+[ext_resource type="Texture2D" uid="uid://boj5dn58l6jsg" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_03.png" id="7_bvbmo"]
+[ext_resource type="Texture2D" uid="uid://cmb6ufeds0op7" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_15_t.png" id="7_wergf"]
+[ext_resource type="Texture2D" uid="uid://cqke4h28b2qqu" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_04.png" id="8_gxgtv"]
+[ext_resource type="Texture2D" uid="uid://dk3yvgsgp8h6s" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_05.png" id="9_pqw5o"]
+[ext_resource type="Texture2D" uid="uid://br3ql4fmo014c" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_06.PNG" id="10_fcv18"]
+[ext_resource type="Texture2D" uid="uid://c3asf1d1gywrn" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_07.png" id="11_fwpsk"]
+[ext_resource type="Texture2D" uid="uid://c1s8xl3d5kej3" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_08.png" id="12_rpmyi"]
+[ext_resource type="Texture2D" uid="uid://ssik6x34fc3s" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_09.png" id="13_6am15"]
+[ext_resource type="Texture2D" uid="uid://b2kq77cqn1375" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_10.PNG" id="14_lvhof"]
+[ext_resource type="Texture2D" uid="uid://doo818hst14jo" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_11.PNG" id="15_sqktt"]
+[ext_resource type="Texture2D" uid="uid://cpdc4r1iisra" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_12.PNG" id="16_lcr6d"]
+[ext_resource type="Texture2D" uid="uid://bd7rnp815np4k" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_13.PNG" id="17_f78r7"]
+[ext_resource type="Texture2D" uid="uid://bk5edvst4hxbg" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_14.PNG" id="18_e4nan"]
+[ext_resource type="Texture2D" uid="uid://brbx2sngudfy" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_15.png" id="19_xmeu1"]
+[ext_resource type="Texture2D" uid="uid://dk50twfhqdqg3" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_16.png" id="20_a4p4k"]
+[ext_resource type="Texture2D" uid="uid://dc06felrwdmjk" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_17.PNG" id="21_h86ue"]
+[ext_resource type="Texture2D" uid="uid://c7g26tb3i4m8w" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_18.PNG" id="22_xmde8"]
+[ext_resource type="Texture2D" uid="uid://f84j472ms2jg" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_19.PNG" id="23_w4q0b"]
+[ext_resource type="Texture2D" uid="uid://b6xtvelc8w8ua" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_20.PNG" id="24_ogl5q"]
+[ext_resource type="Texture2D" uid="uid://c64ktj60joy8g" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_21.PNG" id="25_rg3xk"]
+[ext_resource type="Texture2D" uid="uid://c1dhl4r3l1u57" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_22.PNG" id="26_kyi65"]
+[ext_resource type="Texture2D" uid="uid://1xkk5gb6pj4l" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_23.png" id="27_1r0rf"]
+[ext_resource type="Texture2D" uid="uid://pkjaapntvb5l" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_24.PNG" id="28_htm0k"]
+[ext_resource type="Texture2D" uid="uid://xerrwc7d53x1" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_25.PNG" id="29_ufl0v"]
+[ext_resource type="Texture2D" uid="uid://doo2rdhkkoohv" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_26.png" id="30_yeavu"]
+[ext_resource type="Texture2D" uid="uid://dyj4c2relno53" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_27.PNG" id="31_j7sqr"]
+[ext_resource type="Texture2D" uid="uid://bw3ehj06l27f" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_28.png" id="32_1wt71"]
+[ext_resource type="Texture2D" uid="uid://c86cob4y3o418" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_29.png" id="33_hkft0"]
+[ext_resource type="Texture2D" uid="uid://cfylr0e677qk8" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_30.png" id="34_5am8v"]
+[ext_resource type="Texture2D" uid="uid://dtnrkn4nxviui" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_31.png" id="35_05xn1"]
+[ext_resource type="Texture2D" uid="uid://5o02x3yxsiek" path="res://assets/herbalicons/Herbal_Icons_png/flowers/f_32.png" id="36_aj7jm"]
+[ext_resource type="Texture2D" uid="uid://escjt4q1pbgw" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_02.png" id="37_omp0y"]
+[ext_resource type="Texture2D" uid="uid://c0a2c352qlm4i" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_03.png" id="38_07b3n"]
+[ext_resource type="Texture2D" uid="uid://ba50f2hjxm0wc" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_04.png" id="39_jc3wc"]
+[ext_resource type="Texture2D" uid="uid://b5efxm52l5yi8" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_05.png" id="40_b1uty"]
+[ext_resource type="Texture2D" uid="uid://ghyacocvalym" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_06.png" id="41_hs0l1"]
+[ext_resource type="Texture2D" uid="uid://ckssfw5bv16ew" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_07.png" id="42_eg2hw"]
+[ext_resource type="Texture2D" uid="uid://c3t3f72fb2n7y" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_08.png" id="43_m45am"]
+[ext_resource type="Texture2D" uid="uid://km5cs56v6dpp" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_09.png" id="44_5uc34"]
+[ext_resource type="Texture2D" uid="uid://tqo1eswf83x" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_10.png" id="45_4wkb8"]
+[ext_resource type="Texture2D" uid="uid://cdkvqfghpip5r" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_11.png" id="46_o4cuj"]
+[ext_resource type="Texture2D" uid="uid://wwyxpqek0yr4" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_12.png" id="47_015yv"]
+[ext_resource type="Texture2D" uid="uid://ddiuqd7i52v8r" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_13.png" id="48_n7v5d"]
+[ext_resource type="Texture2D" uid="uid://cno6qm81lyj82" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_14.png" id="49_cvb25"]
+[ext_resource type="Texture2D" uid="uid://dnkwbguuvu6g4" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_15.png" id="50_4e6o1"]
+[ext_resource type="Texture2D" uid="uid://0mbe80dhoq8c" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_16.png" id="51_a35to"]
+[ext_resource type="Texture2D" uid="uid://cgsxboe81wa6y" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_17.PNG" id="52_dan40"]
+[ext_resource type="Texture2D" uid="uid://g7i33kv83qis" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_18.PNG" id="53_y2ydu"]
+[ext_resource type="Texture2D" uid="uid://by8fbqxpcejrw" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_19.PNG" id="54_drp7y"]
+[ext_resource type="Texture2D" uid="uid://r8fkgvx5cab7" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_20.PNG" id="55_ppx2n"]
+[ext_resource type="Texture2D" uid="uid://dc51vr6dbsxyo" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_21.png" id="56_h8pm7"]
+[ext_resource type="Texture2D" uid="uid://dionv25aqj2bb" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_22.PNG" id="57_vjwyf"]
+[ext_resource type="Texture2D" uid="uid://djf6wi287qiqc" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_23.PNG" id="58_70c3b"]
+[ext_resource type="Texture2D" uid="uid://d4eq7kg55b5n7" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_24.PNG" id="59_wmyik"]
+[ext_resource type="Texture2D" uid="uid://or3h8vl20jcy" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_25.png" id="60_hnla6"]
+[ext_resource type="Texture2D" uid="uid://bbxu8dqhfd3k1" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_26.PNG" id="61_uf31w"]
+[ext_resource type="Texture2D" uid="uid://benmhs64ot26b" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_27.png" id="62_abvfc"]
+[ext_resource type="Texture2D" uid="uid://pfw48pl4ivrf" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_28.png" id="63_5qxyp"]
+[ext_resource type="Texture2D" uid="uid://ct5buqjtlrd0x" path="res://assets/herbalicons/Herbal_Icons_png/fruitage/b_29.png" id="64_gt54x"]
+[ext_resource type="Texture2D" uid="uid://dxktw20s7mr1u" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_02.PNG" id="65_s4cv8"]
+[ext_resource type="Texture2D" uid="uid://b7mmddwk0faor" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_03.png" id="66_8yocd"]
+[ext_resource type="Texture2D" uid="uid://iftepoe4cwpf" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_04.png" id="67_ycbxp"]
+[ext_resource type="Texture2D" uid="uid://bghtufw3usyfg" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_05.png" id="68_xg0x5"]
+[ext_resource type="Texture2D" uid="uid://dohn67bypfeeu" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_06.png" id="69_v28ek"]
+[ext_resource type="Texture2D" uid="uid://ct54p7yisr4al" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_07.png" id="70_5a5m5"]
+[ext_resource type="Texture2D" uid="uid://r2cp5ds3mchp" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_08.PNG" id="71_7rtmk"]
+[ext_resource type="Texture2D" uid="uid://dqm5vy71oaqjy" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_09.png" id="72_bjua7"]
+[ext_resource type="Texture2D" uid="uid://d2b6c5s6548mp" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_10.png" id="73_o0mwe"]
+[ext_resource type="Texture2D" uid="uid://dltv84jesgcy6" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_11.png" id="74_p4mo7"]
+[ext_resource type="Texture2D" uid="uid://6ia8jhi60q6c" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_12.png" id="75_g8jxn"]
+[ext_resource type="Texture2D" uid="uid://7exm3k68fwde" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_13.png" id="76_jfluy"]
+[ext_resource type="Texture2D" uid="uid://clssnuifmbm02" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_14.png" id="77_wa8j5"]
+[ext_resource type="Texture2D" uid="uid://44lpt1wmqbip" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_15.png" id="78_mrh6x"]
+[ext_resource type="Texture2D" uid="uid://d0p5f8g0cht4a" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_16.PNG" id="79_c82b8"]
+[ext_resource type="Texture2D" uid="uid://cux8tpbev0v06" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_17.PNG" id="80_lisv6"]
+[ext_resource type="Texture2D" uid="uid://d3gqinecy1khh" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_18.PNG" id="81_0r2oa"]
+[ext_resource type="Texture2D" uid="uid://f8p4qfacjecs" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_19.PNG" id="82_32iua"]
+[ext_resource type="Texture2D" uid="uid://c24n8lmyjerx7" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_20.png" id="83_ww6sv"]
+[ext_resource type="Texture2D" uid="uid://b2as7f0aslemu" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_21.png" id="84_n1qg8"]
+[ext_resource type="Texture2D" uid="uid://k5mprow1s6y3" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_22.PNG" id="85_oo6q5"]
+[ext_resource type="Texture2D" uid="uid://bca7ajbhpcwfw" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_23.PNG" id="86_qbnjm"]
+[ext_resource type="Texture2D" uid="uid://bvbs2k8may5k8" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_24.PNG" id="87_gwmg1"]
+[ext_resource type="Texture2D" uid="uid://don3ubkfwj17l" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_25.PNG" id="88_owiuj"]
+[ext_resource type="Texture2D" uid="uid://bhrnpqc33rs7f" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_26.PNG" id="89_cromy"]
+[ext_resource type="Texture2D" uid="uid://b14gx6gr8ur06" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_27.PNG" id="90_ujx5c"]
+[ext_resource type="Texture2D" uid="uid://ky1fumgrgt58" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_28.png" id="91_4c1ab"]
+[ext_resource type="Texture2D" uid="uid://c7qf5thvk2n8o" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_29.PNG" id="92_q7ppn"]
+[ext_resource type="Texture2D" uid="uid://dmun0nhbbj50o" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_30.PNG" id="93_fneid"]
+[ext_resource type="Texture2D" uid="uid://cf0l5xiydkdro" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_31.png" id="94_dm3mc"]
+[ext_resource type="Texture2D" uid="uid://bgy2w1rwduho4" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_32.PNG" id="95_ulrkd"]
+[ext_resource type="Texture2D" uid="uid://g0km435me44h" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_33.png" id="96_i57ui"]
+[ext_resource type="Texture2D" uid="uid://pvg0clqtfw68" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_34.png" id="97_2qfjg"]
+[ext_resource type="Texture2D" uid="uid://cyflby4ivq1bl" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_35.png" id="98_nsp73"]
+[ext_resource type="Texture2D" uid="uid://cxynrrjy8irj2" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_36.png" id="99_3fr0c"]
+[ext_resource type="Texture2D" uid="uid://d3jqh7flmdq5x" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_37.PNG" id="100_2mdnh"]
+[ext_resource type="Texture2D" uid="uid://cppidlw2l2vx1" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_38.PNG" id="101_crrbo"]
+[ext_resource type="Texture2D" uid="uid://c52fh1fxuaxi" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_39.png" id="102_snkwf"]
+[ext_resource type="Texture2D" uid="uid://be80olry8y8e5" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_40.PNG" id="103_miwme"]
+[ext_resource type="Texture2D" uid="uid://becnme5w2c5io" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_41.png" id="104_fmu8v"]
+[ext_resource type="Texture2D" uid="uid://bvktxdkq4ljrh" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_42.PNG" id="105_aio40"]
+[ext_resource type="Texture2D" uid="uid://bgf7qrsbhnh18" path="res://assets/herbalicons/Herbal_Icons_png/Grass_and_leaves/g_43.png" id="106_nxwww"]
+[ext_resource type="Texture2D" uid="uid://vx0736opcwc4" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_02.PNG" id="107_aw74k"]
+[ext_resource type="Texture2D" uid="uid://bbgpu0c8tfopa" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_03.PNG" id="108_kakaw"]
+[ext_resource type="Texture2D" uid="uid://cnc8x1208rj7o" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_01_t.png" id="109_db8ns"]
+[ext_resource type="Texture2D" uid="uid://b5bn8pcen0vts" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_04.png" id="109_q34fa"]
+[ext_resource type="Texture2D" uid="uid://byicjwxx4cwvs" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_05.PNG" id="110_ivx50"]
+[ext_resource type="Texture2D" uid="uid://ck67rkkjpj54l" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_02_t.PNG" id="110_t02mf"]
+[ext_resource type="Texture2D" uid="uid://s1u1celp1je4" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_06.PNG" id="111_j8337"]
+[ext_resource type="Texture2D" uid="uid://dgiufamwkl3un" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_03_t.PNG" id="111_o3buk"]
+[ext_resource type="Texture2D" uid="uid://qw60apqhm7st" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_07.png" id="112_8c6rw"]
+[ext_resource type="Texture2D" uid="uid://xftr0i2x4jfa" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_04_t.PNG" id="112_jso2w"]
+[ext_resource type="Texture2D" uid="uid://c2egxtoi624id" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_08.PNG" id="113_1p8kn"]
+[ext_resource type="Texture2D" uid="uid://ctkull8ghtkfe" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_05_t.PNG" id="113_thvu1"]
+[ext_resource type="Texture2D" uid="uid://c7ugq1e64ijur" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_06_t.png" id="114_6cub2"]
+[ext_resource type="Texture2D" uid="uid://dc5422bkj6ksu" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_09.PNG" id="114_d37yn"]
+[ext_resource type="Texture2D" uid="uid://qrop2qy4x7ih" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_07_t.PNG" id="115_cpilp"]
+[ext_resource type="Texture2D" uid="uid://cloniouhxmk6l" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_10.png" id="115_q8lri"]
+[ext_resource type="Texture2D" uid="uid://bxndk7up2px2h" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_11.PNG" id="116_0kbq3"]
+[ext_resource type="Texture2D" uid="uid://brcn7qqr7lcn7" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_08_t.PNG" id="116_37uvq"]
+[ext_resource type="Texture2D" uid="uid://ce6m3t1p3wga" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_09_t.png" id="117_ainjs"]
+[ext_resource type="Texture2D" uid="uid://vlkn57q6t28x" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_12.png" id="117_nrppi"]
+[ext_resource type="Texture2D" uid="uid://bvseepauq2eh1" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_10_t.png" id="118_m4xxv"]
+[ext_resource type="Texture2D" uid="uid://bd2q8p5cti8o6" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_13.png" id="118_sk7u1"]
+[ext_resource type="Texture2D" uid="uid://08eshnu3mc3y" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_14.PNG" id="119_ersj3"]
+[ext_resource type="Texture2D" uid="uid://c8s21np6gty3b" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_11_t.png" id="119_plsjn"]
+[ext_resource type="Texture2D" uid="uid://d0v164mdgnab3" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_12_t.png" id="120_lx7sm"]
+[ext_resource type="Texture2D" uid="uid://dyfmtxp68tdw4" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_15.png" id="120_plkn1"]
+[ext_resource type="Texture2D" uid="uid://bohdo2h6v8ts6" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_16.PNG" id="121_txyrc"]
+[ext_resource type="Texture2D" uid="uid://c5q4hmflchcr6" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_13_t.png" id="121_wi7e7"]
+[ext_resource type="Texture2D" uid="uid://mtjgha3dat7s" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_17.png" id="122_5bqni"]
+[ext_resource type="Texture2D" uid="uid://chwijsr3uqq76" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_14_t.png" id="122_eoj4l"]
+[ext_resource type="Texture2D" uid="uid://bngakok8hhi2h" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_18.png" id="123_g5c02"]
+[ext_resource type="Texture2D" uid="uid://bl4hjuv6covfy" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_15_t.png" id="123_j8p8p"]
+[ext_resource type="Texture2D" uid="uid://cnb2aiwliusa4" path="res://assets/herbalicons/Herbal_Icons_png/mushrooms/m_19.png" id="124_braah"]
+[ext_resource type="Texture2D" uid="uid://c5bey1yoqmtob" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_16_t.png" id="124_tsdkl"]
+[ext_resource type="Texture2D" uid="uid://bjmuaefbc3u7s" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_17_t.png" id="125_7w8bg"]
+[ext_resource type="Texture2D" uid="uid://d1l6sxmo27cat" path="res://assets/herbalicons/Herbal_Icons_png/roots/r_02.PNG" id="125_mnbqw"]
+[ext_resource type="Texture2D" uid="uid://b7dqaush3owof" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_18_t.png" id="126_bcxgk"]
+[ext_resource type="Texture2D" uid="uid://d2nkw6ld85ajc" path="res://assets/herbalicons/Herbal_Icons_png/roots/r_03.png" id="126_vd76q"]
+[ext_resource type="Texture2D" uid="uid://74cs28x67ovv" path="res://assets/herbalicons/Herbal_Icons_png/roots/r_04.PNG" id="127_nus2q"]
+[ext_resource type="Texture2D" uid="uid://lk1h0n6m8e5y" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_19_t.png" id="127_t7hub"]
+[ext_resource type="Texture2D" uid="uid://dyrn5xrdnrr0u" path="res://assets/herbalicons/Herbal_Icons_png/roots/r_05.png" id="128_4b0vd"]
+[ext_resource type="Texture2D" uid="uid://wwvuaeiwdiw1" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_20_t.PNG" id="128_odg1r"]
+[ext_resource type="Texture2D" uid="uid://bfg0eencyy6b2" path="res://assets/herbalicons/Herbal_Icons_png/roots/r_06.PNG" id="129_iynev"]
+[ext_resource type="Texture2D" uid="uid://d14unc6cev2ac" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_21_t.png" id="129_qgftb"]
+[ext_resource type="Texture2D" uid="uid://dbjrwefikb4wp" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_22_t.png" id="130_d8al3"]
+[ext_resource type="Texture2D" uid="uid://d3hg8jv18ylb4" path="res://assets/herbalicons/Herbal_Icons_png/roots/r_07.png" id="130_n8jkv"]
+[ext_resource type="Texture2D" uid="uid://cwsvfbgnlsqqm" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_23_t.png" id="131_irvwb"]
+[ext_resource type="Texture2D" uid="uid://bu3e6i0oknxud" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_24_t.png" id="132_t3nl7"]
+[ext_resource type="Texture2D" uid="uid://bhsmpx54b1bw5" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_01_t.png" id="133_mtich"]
+[ext_resource type="Texture2D" uid="uid://bvwln16nqggng" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_25_t.png" id="133_nceo5"]
+[ext_resource type="Texture2D" uid="uid://dc15y680y3g8k" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_02_t.png" id="134_s57l6"]
+[ext_resource type="Texture2D" uid="uid://cesch6q6motnx" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_26_t.PNG" id="134_yhpod"]
+[ext_resource type="Texture2D" uid="uid://m2kl2sih6ojw" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_27_t.PNG" id="135_gpyhu"]
+[ext_resource type="Texture2D" uid="uid://c08fpbclsyjuc" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_03_t.png" id="135_i5olq"]
+[ext_resource type="Texture2D" uid="uid://crmelra1s68yb" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_28_t.png" id="136_8kpeh"]
+[ext_resource type="Texture2D" uid="uid://bbnupnlyfk35i" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_04_t.png" id="136_s2k2b"]
+[ext_resource type="Texture2D" uid="uid://bgxfcbsq444l4" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_05_t.png" id="137_mshd8"]
+[ext_resource type="Texture2D" uid="uid://554685ilb437" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_29_t.png" id="137_sv0ke"]
+[ext_resource type="Texture2D" uid="uid://co8siyqsdtmqa" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_06_t.png" id="138_e8i4k"]
+[ext_resource type="Texture2D" uid="uid://4f1ejqmgb1xc" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_30_t.png" id="138_vuadl"]
+[ext_resource type="Texture2D" uid="uid://byevxa6jao3oh" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_31_t.png" id="139_geuns"]
+[ext_resource type="Texture2D" uid="uid://djoryxc1olu7j" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_07_t.png" id="139_m3wfh"]
+[ext_resource type="Texture2D" uid="uid://dgfn0gc85k61u" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_32_t.png" id="140_q12qk"]
+[ext_resource type="Texture2D" uid="uid://dgfoxcd73pp0f" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_08_t.png" id="140_qbqyy"]
+[ext_resource type="Texture2D" uid="uid://rbp0rlgh2lm5" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_09_t.PNG" id="141_8vwyi"]
+[ext_resource type="Texture2D" uid="uid://cp34jutogqcqw" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_33_t.png" id="141_16sll"]
+[ext_resource type="Texture2D" uid="uid://d0e00f0tdtvhp" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_10_t.png" id="142_8oayo"]
+[ext_resource type="Texture2D" uid="uid://cstgexuyll0hg" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_34_t.png" id="142_sp0i4"]
+[ext_resource type="Texture2D" uid="uid://bo281yjjcfes6" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_11_t.png" id="143_4mbmd"]
+[ext_resource type="Texture2D" uid="uid://dbmln8bye6fow" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_35_t.PNG" id="143_lo7wk"]
+[ext_resource type="Texture2D" uid="uid://brmvoaiovyxx" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_12_t.png" id="144_36s4b"]
+[ext_resource type="Texture2D" uid="uid://b66n1xjpoa31b" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_36_t.PNG" id="144_pbm0h"]
+[ext_resource type="Texture2D" uid="uid://cm46dhssa2oo0" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_13_t.png" id="145_33dxr"]
+[ext_resource type="Texture2D" uid="uid://c72uf8irp0bbe" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_37_t.PNG" id="145_na2qd"]
+[ext_resource type="Texture2D" uid="uid://dfwv67680su43" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_14_t.png" id="146_ed77c"]
+[ext_resource type="Texture2D" uid="uid://bjp71f2i8io5u" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_38_t.PNG" id="146_ulm2x"]
+[ext_resource type="Texture2D" uid="uid://b1m4djo8mk2bn" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_16_t.png" id="147_a5ama"]
+[ext_resource type="Texture2D" uid="uid://b3r8yc5asege" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_39_t.PNG" id="147_hroay"]
+[ext_resource type="Texture2D" uid="uid://ib6c5g43qu8p" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_40_t.PNG" id="148_dayit"]
+[ext_resource type="Texture2D" uid="uid://mr3fwdcla7mx" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_17_t.png" id="148_f4kml"]
+[ext_resource type="Texture2D" uid="uid://b3yiph0nmvx30" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_41_t.PNG" id="149_gtvwi"]
+[ext_resource type="Texture2D" uid="uid://bfe5air6wfc0y" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_18_t.png" id="149_r3aq4"]
+[ext_resource type="Texture2D" uid="uid://cvqwquxdx45jb" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_42_t.PNG" id="150_scyu0"]
+[ext_resource type="Texture2D" uid="uid://cxcn1fc51thke" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_19_t.png" id="150_tmycu"]
+[ext_resource type="Texture2D" uid="uid://dsm43voykwg7h" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_43_t.PNG" id="151_uqslu"]
+[ext_resource type="Texture2D" uid="uid://davnw8if0kapw" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_20_t.png" id="151_xrmoq"]
+[ext_resource type="Texture2D" uid="uid://c5b3acojo2uyg" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_44_t.PNG" id="152_8h2m6"]
+[ext_resource type="Texture2D" uid="uid://7sa44ecgfsal" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_21_t.PNG" id="152_f8kda"]
+[ext_resource type="Texture2D" uid="uid://6qwtmyij2j5x" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_22_t.PNG" id="153_vc8we"]
+[ext_resource type="Texture2D" uid="uid://dj0jaqc8nkbjj" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_45_t.PNG" id="153_y75yr"]
+[ext_resource type="Texture2D" uid="uid://cs58imer3885x" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_46_t.PNG" id="154_1w5bo"]
+[ext_resource type="Texture2D" uid="uid://c8pus13rj3p3e" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_23_t.PNG" id="154_v6epl"]
+[ext_resource type="Texture2D" uid="uid://clnrkm2euxwhb" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_24_t.png" id="155_58ywr"]
+[ext_resource type="Texture2D" uid="uid://byr3w2yfwtgwj" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_47_t.PNG" id="155_vhuce"]
+[ext_resource type="Texture2D" uid="uid://c7p4cgkiutroq" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_48_t.PNG" id="156_6fuw1"]
+[ext_resource type="Texture2D" uid="uid://bnohleuqp07cy" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_25_t.png" id="156_gi74i"]
+[ext_resource type="Texture2D" uid="uid://u3pv468gfhj4" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_26_t.png" id="157_dgjt2"]
+[ext_resource type="Texture2D" uid="uid://be4wcebbmjd16" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_49_t.PNG" id="157_nkail"]
+[ext_resource type="Texture2D" uid="uid://glmep6wxw5vl" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_50_t.PNG" id="158_0mh3u"]
+[ext_resource type="Texture2D" uid="uid://r4oewq6f6kov" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_27_t.png" id="158_rq2ub"]
+[ext_resource type="Texture2D" uid="uid://dfvm5i88m8mik" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_28_t.png" id="159_rup5i"]
+[ext_resource type="Texture2D" uid="uid://pjjo8fgucxjd" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_51_t.PNG" id="159_uvraa"]
+[ext_resource type="Texture2D" uid="uid://dkl32p5tegj2w" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_29_t.PNG" id="160_6eu51"]
+[ext_resource type="Texture2D" uid="uid://ceu44l2kmwut" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_52_t.PNG" id="160_qhofh"]
+[ext_resource type="Texture2D" uid="uid://oxkqfrgl7yu5" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_53_t.PNG" id="161_b0s5q"]
+[ext_resource type="Texture2D" uid="uid://btik6vaeoc7ic" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_30_t.PNG" id="161_k6qsy"]
+[ext_resource type="Texture2D" uid="uid://chu4sd07spx81" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_54_t.PNG" id="162_ess0l"]
+[ext_resource type="Texture2D" uid="uid://ckc12b2b4622b" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_31_t.png" id="162_tc6jx"]
+[ext_resource type="Texture2D" uid="uid://blhe0qu0k7f6d" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_32_t.png" id="163_aw424"]
+[ext_resource type="Texture2D" uid="uid://dsko5l0glnqkq" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_55_t.PNG" id="163_oka7x"]
+[ext_resource type="Texture2D" uid="uid://ce8fjmk8fseo1" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_56_t.PNG" id="164_i7ib6"]
+[ext_resource type="Texture2D" uid="uid://pk0pxwtbkmgt" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_33_t.png" id="164_xtuqh"]
+[ext_resource type="Texture2D" uid="uid://clcw0a683rn37" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_57_t.PNG" id="165_2mcgj"]
+[ext_resource type="Texture2D" uid="uid://olccxxqaunb2" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_34_t.PNG" id="165_51oja"]
+[ext_resource type="Texture2D" uid="uid://k6j8nvpetmv1" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_35_t.png" id="166_qotgo"]
+[ext_resource type="Texture2D" uid="uid://bfnkcq6dod33v" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_58_t.PNG" id="166_wgle2"]
+[ext_resource type="Texture2D" uid="uid://degb1dngr8qkf" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_59_t.PNG" id="167_jcr6e"]
+[ext_resource type="Texture2D" uid="uid://cl85073uqu86h" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_36_t.PNG" id="167_lw4vf"]
+[ext_resource type="Texture2D" uid="uid://b5q0o73bdil6c" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_37_t.png" id="168_0f5ai"]
+[ext_resource type="Texture2D" uid="uid://dwkqpui4tldxn" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_60_t.PNG" id="168_5sk1y"]
+[ext_resource type="Texture2D" uid="uid://d0nto0gkdm5xa" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_61_t.PNG" id="169_3qje5"]
+[ext_resource type="Texture2D" uid="uid://db30shaqtjunb" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_38_t.PNG" id="169_f46vf"]
+[ext_resource type="Texture2D" uid="uid://ne4rc8fl8f33" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_62_t.PNG" id="170_2vx6n"]
+[ext_resource type="Texture2D" uid="uid://52phr2232f37" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_39_t.PNG" id="170_c6bga"]
+[ext_resource type="Texture2D" uid="uid://cynenwh8vf4fa" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_40_t.PNG" id="171_bn85i"]
+[ext_resource type="Texture2D" uid="uid://c2vqevif5v75u" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_63_t.PNG" id="171_tdvkk"]
+[ext_resource type="Texture2D" uid="uid://jojb580oqd3l" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_41_t.PNG" id="172_khupx"]
+[ext_resource type="Texture2D" uid="uid://c8pwgm4kyeps" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_64_t.PNG" id="172_m6h1m"]
+[ext_resource type="Texture2D" uid="uid://bc1seurji60tb" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_65_t.PNG" id="173_7wi4c"]
+[ext_resource type="Texture2D" uid="uid://wvbn3tad8l0m" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_42_t.png" id="173_ph40e"]
+[ext_resource type="Texture2D" uid="uid://drdqcrsety5sn" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_66_t.png" id="174_6bbk2"]
+[ext_resource type="Texture2D" uid="uid://7k8c7ka8c0ln" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_43_t.PNG" id="174_331o1"]
+[ext_resource type="Texture2D" uid="uid://cjt5h28lnntqw" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_44_t.PNG" id="175_ecscj"]
+[ext_resource type="Texture2D" uid="uid://bvctjdvsj5o7n" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_67_t.png" id="175_jm0j8"]
+[ext_resource type="Texture2D" uid="uid://dumn8tpobw5tr" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_68_t.png" id="176_ptpvm"]
+[ext_resource type="Texture2D" uid="uid://c3lqcj8x5mknx" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_45_t.PNG" id="176_x7wed"]
+[ext_resource type="Texture2D" uid="uid://ud2dy8xg3u4r" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_46_t.PNG" id="177_2apmd"]
+[ext_resource type="Texture2D" uid="uid://d1whxkrxnp7f8" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_69_t.png" id="177_molvc"]
+[ext_resource type="Texture2D" uid="uid://bh2wm3o82sntj" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_47_t.PNG" id="178_kjvr5"]
+[ext_resource type="Texture2D" uid="uid://3kmfy02jg3oa" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_70_t.png" id="178_ktg1k"]
+[ext_resource type="Texture2D" uid="uid://dww2ri7bxp83x" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_48_t.png" id="179_f4dni"]
+[ext_resource type="Texture2D" uid="uid://ddtri5rdf85h" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_71_t.png" id="179_vnhbv"]
+[ext_resource type="Texture2D" uid="uid://b205ik06uaecx" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_72_t.PNG" id="180_2uxrj"]
+[ext_resource type="Texture2D" uid="uid://dgyaaygu6boly" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_49_t.png" id="180_8hhgn"]
+[ext_resource type="Texture2D" uid="uid://c5c540j3b46o0" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_50_t.png" id="181_07cim"]
+[ext_resource type="Texture2D" uid="uid://jyfwi4pmdo4p" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_73_t.PNG" id="181_p0w87"]
+[ext_resource type="Texture2D" uid="uid://soy6acocc5w6" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_51_t.png" id="182_4boda"]
+[ext_resource type="Texture2D" uid="uid://bdqousc6emjso" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_74_t.PNG" id="182_vu7s0"]
+[ext_resource type="Texture2D" uid="uid://ced3iu2s5hy85" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_75_t.PNG" id="183_dog8m"]
+[ext_resource type="Texture2D" uid="uid://b1x1d78pwprqv" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_52_t.png" id="183_xah7v"]
+[ext_resource type="Texture2D" uid="uid://lbjivaxj4b26" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_76_t.PNG" id="184_cnxrl"]
+[ext_resource type="Texture2D" uid="uid://bkt1xwu6tfawn" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_53_t.png" id="184_xc407"]
+[ext_resource type="Texture2D" uid="uid://d4i8urxbsdwbg" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_77_t.PNG" id="185_a3hlg"]
+[ext_resource type="Texture2D" uid="uid://stddw2q7h43u" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_54_t.png" id="185_pohly"]
+[ext_resource type="Texture2D" uid="uid://m6r1ch5elm7u" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_55_t.png" id="186_enqa4"]
+[ext_resource type="Texture2D" uid="uid://drsfdd6plgqwc" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_78_t.PNG" id="186_eq1fa"]
+[ext_resource type="Texture2D" uid="uid://dtq55k0gwiffm" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_56_t.PNG" id="187_aophe"]
+[ext_resource type="Texture2D" uid="uid://saaqbfjbiilw" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_79_t.png" id="187_ok7h4"]
+[ext_resource type="Texture2D" uid="uid://pboy764bkqt8" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_57_t.PNG" id="188_2a3wo"]
+[ext_resource type="Texture2D" uid="uid://yjox2irufwej" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_80_t.png" id="188_ao4ds"]
+[ext_resource type="Texture2D" uid="uid://buksq4pv2i4sb" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_58_t.PNG" id="189_p8o8i"]
+[ext_resource type="Texture2D" uid="uid://i6ckwlb58eu1" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_81_t.png" id="189_tuohj"]
+[ext_resource type="Texture2D" uid="uid://doq33knyoxbhj" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_82_t.png" id="190_h5mec"]
+[ext_resource type="Texture2D" uid="uid://bvw5y42yggcm8" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_59_t.PNG" id="190_wlomr"]
+[ext_resource type="Texture2D" uid="uid://c3cal41v8aios" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_83_t.png" id="191_4sdvo"]
+[ext_resource type="Texture2D" uid="uid://bhajnh4jdb53k" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_60_t.PNG" id="191_sylvx"]
+[ext_resource type="Texture2D" uid="uid://dt3rg1gbgrpis" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_84_t.png" id="192_4am3e"]
+[ext_resource type="Texture2D" uid="uid://hhv7tee485cu" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_61_t.PNG" id="192_hcn3u"]
+[ext_resource type="Texture2D" uid="uid://c1pmf0wtgc2b5" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_62_t.PNG" id="193_3lbi7"]
+[ext_resource type="Texture2D" uid="uid://bnh0qegbkbtsh" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_85_t.png" id="193_vskwk"]
+[ext_resource type="Texture2D" uid="uid://b66xs6ahj723r" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_86_t.png" id="194_2p6rb"]
+[ext_resource type="Texture2D" uid="uid://bqs8d347ovkq1" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_63_t.PNG" id="194_ber4c"]
+[ext_resource type="Texture2D" uid="uid://bqcgbxdfrx5j3" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_87_t.png" id="195_3vjed"]
+[ext_resource type="Texture2D" uid="uid://gcoufnkguytk" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_64_t.PNG" id="195_6rcew"]
+[ext_resource type="Texture2D" uid="uid://dibhnh2l3pjuo" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_65_t.png" id="196_huj31"]
+[ext_resource type="Texture2D" uid="uid://bt1sgoba0cx36" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_88_t.png" id="196_qfhig"]
+[ext_resource type="Texture2D" uid="uid://dbb0pjy4e20fm" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_89_t.png" id="197_8xgc4"]
+[ext_resource type="Texture2D" uid="uid://duhnb3lrk3lhc" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_66_t.PNG" id="197_p42k1"]
+[ext_resource type="Texture2D" uid="uid://jyanf2c4bmml" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_90_t.PNG" id="198_jxq7s"]
+[ext_resource type="Texture2D" uid="uid://c2wc8dk3fq0vd" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_67_t.PNG" id="198_w03qf"]
+[ext_resource type="Texture2D" uid="uid://b1li645fty22p" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_92_t.PNG" id="199_7litq"]
+[ext_resource type="Texture2D" uid="uid://dwsnkdixpth4v" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_68_t.PNG" id="199_vt5v6"]
+[ext_resource type="Texture2D" uid="uid://25xiuwfaobt7" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_69_t.png" id="200_epfiw"]
+[ext_resource type="Texture2D" uid="uid://y50n1dd48enj" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_93_t.PNG" id="200_xcg5r"]
+[ext_resource type="Texture2D" uid="uid://difwyx3jhkuk4" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_94_t.PNG" id="201_pxyu4"]
+[ext_resource type="Texture2D" uid="uid://4t7xee4wtq76" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_70_t.png" id="201_ul6kg"]
+[ext_resource type="Texture2D" uid="uid://dpdx6oipwq4mq" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_95_t.PNG" id="202_2llrp"]
+[ext_resource type="Texture2D" uid="uid://b8xxlbhim7njy" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_71_t.png" id="202_612dn"]
+[ext_resource type="Texture2D" uid="uid://s7lmxsixmapf" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_72_t.png" id="203_cgkfc"]
+[ext_resource type="Texture2D" uid="uid://dmy8um1glyy0f" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_96_t.PNG" id="203_cxh8f"]
+[ext_resource type="Texture2D" uid="uid://dkgutb26fvb5v" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_97_t.PNG" id="204_bdhmj"]
+[ext_resource type="Texture2D" uid="uid://cjgm8jh6p5ylv" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_73_t.png" id="204_tmu0c"]
+[ext_resource type="Texture2D" uid="uid://maiyxheig1x4" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_98_t.PNG" id="205_f55h6"]
+[ext_resource type="Texture2D" uid="uid://bclscp3i28qn2" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_74_t.png" id="205_k6d6i"]
+[ext_resource type="Texture2D" uid="uid://dlfclbfay7sn7" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_75_t.png" id="206_k13t1"]
+[ext_resource type="Texture2D" uid="uid://b36knrtofl7jf" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_99_t.PNG" id="206_l5wa8"]
+[ext_resource type="Texture2D" uid="uid://diwexplxiteyt" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_100_t.PNG" id="207_ckc2m"]
+[ext_resource type="Texture2D" uid="uid://cmh2bmvdnu7bj" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_76_t.png" id="207_x24h8"]
+[ext_resource type="Texture2D" uid="uid://bek0k058dd56q" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_101_t.PNG" id="208_ie3vv"]
+[ext_resource type="Texture2D" uid="uid://dt6x4efoat5io" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_77_t.PNG" id="208_tn3dj"]
+[ext_resource type="Texture2D" uid="uid://dctqhmanf1bxn" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_102_t.PNG" id="209_d6eum"]
+[ext_resource type="Texture2D" uid="uid://own743jmy1yt" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_78_t.png" id="209_r71k1"]
+[ext_resource type="Texture2D" uid="uid://caw4xhoxmclh8" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_103_t.PNG" id="210_0ec24"]
+[ext_resource type="Texture2D" uid="uid://d0vknwknspedw" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_79_t.PNG" id="210_f76oc"]
+[ext_resource type="Texture2D" uid="uid://pgldy6yvelsu" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_80_t.PNG" id="211_ikwnc"]
+[ext_resource type="Texture2D" uid="uid://dlkuysuxvbdvy" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_104_t.PNG" id="211_p531e"]
+[ext_resource type="Texture2D" uid="uid://2058js7vllyv" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_105_t.png" id="212_pyih0"]
+[ext_resource type="Texture2D" uid="uid://bmxnwvutr14qp" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_81_t.png" id="212_rf722"]
+[ext_resource type="Texture2D" uid="uid://ndevceck53f7" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_82_t.png" id="213_ofdyc"]
+[ext_resource type="Texture2D" uid="uid://2502ft4gnr5b" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_106_t.PNG" id="213_u3e5t"]
+[ext_resource type="Texture2D" uid="uid://c3mwqqm28ek4d" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_107_t.PNG" id="214_0srfy"]
+[ext_resource type="Texture2D" uid="uid://dhmbt6ckrmbxd" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_83_t.PNG" id="214_qavcx"]
+[ext_resource type="Texture2D" uid="uid://c5kgkv5n5a22x" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_84_t.PNG" id="215_pmvdt"]
+[ext_resource type="Texture2D" uid="uid://h5txq46mcxyb" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_108_t.PNG" id="215_r7p27"]
+[ext_resource type="Texture2D" uid="uid://7cg4hryuwls" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_85_t.PNG" id="216_1tnhg"]
+[ext_resource type="Texture2D" uid="uid://jlp3lhrkeqn8" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_109_t.PNG" id="216_pwec7"]
+[ext_resource type="Texture2D" uid="uid://dvfeinpcrk1ly" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_86_t.png" id="217_4hoht"]
+[ext_resource type="Texture2D" uid="uid://cwnaucmmqsf6w" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_110_t.PNG" id="217_s10aw"]
+[ext_resource type="Texture2D" uid="uid://bw7m5fbi5ep05" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_111_t.PNG" id="218_0nl4r"]
+[ext_resource type="Texture2D" uid="uid://4qpmruyw2bsc" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_87_t.PNG" id="218_77weg"]
+[ext_resource type="Texture2D" uid="uid://mllepety87o4" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_88_t.PNG" id="219_bfot6"]
+[ext_resource type="Texture2D" uid="uid://dy3f0pk5twggp" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_112_t.PNG" id="219_e1w6k"]
+[ext_resource type="Texture2D" uid="uid://cl3thgtvaebg2" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_113_t.PNG" id="220_0eelp"]
+[ext_resource type="Texture2D" uid="uid://dkg251ssdawll" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_89_t.png" id="220_hv4pe"]
+[ext_resource type="Texture2D" uid="uid://q2eh1m7etn82" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_90_t.PNG" id="221_g6i8o"]
+[ext_resource type="Texture2D" uid="uid://cehmwqfm1iwnj" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_114_t.png" id="221_ubjtj"]
+[ext_resource type="Texture2D" uid="uid://dy3o06qt4ft8w" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_115_t.png" id="222_5xoct"]
+[ext_resource type="Texture2D" uid="uid://nwpmwf226i6u" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_91_t.PNG" id="222_kjwx8"]
+[ext_resource type="Texture2D" uid="uid://cbuli13gm8cru" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_116_t.png" id="223_a0vn1"]
+[ext_resource type="Texture2D" uid="uid://dhnxqm2tm8bdt" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_92_t.PNG" id="223_pdjy1"]
+[ext_resource type="Texture2D" uid="uid://b36r6cu4eplmu" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_117_t.png" id="224_qie2l"]
+[ext_resource type="Texture2D" uid="uid://c7c23fi3it8ey" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_93_t.png" id="224_xkv5a"]
+[ext_resource type="Texture2D" uid="uid://1qw8ggvdic0k" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_118_t.png" id="225_b8xd5"]
+[ext_resource type="Texture2D" uid="uid://bgtb7v72bw11p" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_94_t.PNG" id="225_und71"]
+[ext_resource type="Texture2D" uid="uid://cxldt8xi44db0" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_95_t.png" id="226_jdhyt"]
+[ext_resource type="Texture2D" uid="uid://drgyyuvi2fbvh" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_119_t.png" id="226_xgfml"]
+[ext_resource type="Texture2D" uid="uid://dngp560t40dr3" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_120_t.PNG" id="227_3t86l"]
+[ext_resource type="Texture2D" uid="uid://bomqt7javs40v" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_96_t.PNG" id="227_fwjpj"]
+[ext_resource type="Texture2D" uid="uid://div2ovi1s6fqa" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_97_t.PNG" id="228_80tcs"]
+[ext_resource type="Texture2D" uid="uid://23l2k7yqy6gj" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_121_t.png" id="228_v0acu"]
+[ext_resource type="Texture2D" uid="uid://befsd57qg8ipu" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_122_t.png" id="229_koqpg"]
+[ext_resource type="Texture2D" uid="uid://bfvcy703itpmf" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_98_t.PNG" id="229_qnroy"]
+[ext_resource type="Texture2D" uid="uid://brw4vgalaypyo" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_99_t.png" id="230_32blc"]
+[ext_resource type="Texture2D" uid="uid://c2p1xuy40oexn" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_123_t.png" id="230_lfxh0"]
+[ext_resource type="Texture2D" uid="uid://d034cwvv7yin5" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_124_t.PNG" id="231_4hm4n"]
+[ext_resource type="Texture2D" uid="uid://bismvpgjbmu8h" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_100_t.png" id="231_ntofm"]
+[ext_resource type="Texture2D" uid="uid://bvwl5786tbdiw" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_101_t.png" id="232_5utue"]
+[ext_resource type="Texture2D" uid="uid://bw3722nmklxrl" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_125_t.PNG" id="232_12fy0"]
+[ext_resource type="Texture2D" uid="uid://bw2h82okht7y3" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_126_t.png" id="233_gci0v"]
+[ext_resource type="Texture2D" uid="uid://b4k4qkqt0tri4" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_102_t.png" id="233_r5gkx"]
+[ext_resource type="Texture2D" uid="uid://hbjwqncmiirf" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_103_t.png" id="234_a3ara"]
+[ext_resource type="Texture2D" uid="uid://dg11tahk7vv6r" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_127_t.png" id="234_wb4mr"]
+[ext_resource type="Texture2D" uid="uid://ctqtkjvrvdxoe" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_104_t.png" id="235_p21lh"]
+[ext_resource type="Texture2D" uid="uid://dbx2lohxwnj6k" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_128_t.PNG" id="235_phl4u"]
+[ext_resource type="Texture2D" uid="uid://ep1x5j8iee0m" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_129_t.png" id="236_er88w"]
+[ext_resource type="Texture2D" uid="uid://rvqi16a14kam" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/WitchCraftIcons_105_t.PNG" id="236_xpao4"]
+[ext_resource type="Texture2D" uid="uid://b7ic4wf0vwmxv" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_106_t.png" id="237_f1yvg"]
+[ext_resource type="Texture2D" uid="uid://cop05ipoytgio" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_130_t.png" id="237_fmynp"]
+[ext_resource type="Texture2D" uid="uid://dcp3dre20omeo" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_107_t.PNG" id="238_d7ved"]
+[ext_resource type="Texture2D" uid="uid://b5ly3geejcw2u" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_131_t.PNG" id="238_o3qy7"]
+[ext_resource type="Texture2D" uid="uid://c6eib808h6u8l" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_132_t.PNG" id="239_8x30c"]
+[ext_resource type="Texture2D" uid="uid://cpd8a8tuqibay" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_108_t.PNG" id="239_be2ec"]
+[ext_resource type="Texture2D" uid="uid://c35asrpcanyye" path="res://assets/huntingicons/HuntingIcons_transparent/HuntingIcons_133_t.PNG" id="240_c8nul"]
+[ext_resource type="Texture2D" uid="uid://cbg1g5rocrxj8" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_109_t.png" id="240_rt3jx"]
+[ext_resource type="Texture2D" uid="uid://b0ovaffnmkik8" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_110_t.png" id="241_06iw8"]
+[ext_resource type="Texture2D" uid="uid://bs8hdpbxnlqor" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_111_t.png" id="242_qwku4"]
+[ext_resource type="Texture2D" uid="uid://xyupf0u0df2l" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_112_t.png" id="243_5caur"]
+[ext_resource type="Texture2D" uid="uid://bhgi045h275ju" path="res://assets/bagsanboxes/BagsAndBoxes_02_t.png" id="243_st3pl"]
+[ext_resource type="Texture2D" uid="uid://hw7750xekm63" path="res://assets/bagsanboxes/BagsAndBoxes_03_t.PNG" id="244_g3b4m"]
+[ext_resource type="Texture2D" uid="uid://b66vkkehr432f" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_113_t.png" id="244_itvvq"]
+[ext_resource type="Texture2D" uid="uid://dpit5esitpt6e" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_114_t.png" id="245_5dng3"]
+[ext_resource type="Texture2D" uid="uid://uhtp7hvct8p3" path="res://assets/bagsanboxes/BagsAndBoxes_04_t.PNG" id="245_j7t4w"]
+[ext_resource type="Texture2D" uid="uid://cjxm8g1llwkyx" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_115_t.png" id="246_cj50j"]
+[ext_resource type="Texture2D" uid="uid://broy1kwly4jmh" path="res://assets/bagsanboxes/BagsAndBoxes_05_t.png" id="246_v8a0y"]
+[ext_resource type="Texture2D" uid="uid://diwge8wl1hrjs" path="res://assets/bagsanboxes/BagsAndBoxes_06_t.png" id="247_o1sep"]
+[ext_resource type="Texture2D" uid="uid://bxgmsltynwd1o" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_116_t.png" id="247_ruxpx"]
+[ext_resource type="Texture2D" uid="uid://xfnoolskireh" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_117_t.png" id="248_hgs7a"]
+[ext_resource type="Texture2D" uid="uid://c31rxn2x5soa1" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_118_t.PNG" id="249_nh1ot"]
+[ext_resource type="Texture2D" uid="uid://bhopm3wjjg1mo" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_119_t.PNG" id="250_dd12l"]
+[ext_resource type="Texture2D" uid="uid://b46kuo8hg0t8" path="res://assets/bagsanboxes/BagsAndBoxes_09_t.png" id="250_r3dm3"]
+[ext_resource type="Texture2D" uid="uid://c4qpk0vb5tkuy" path="res://assets/bagsanboxes/BagsAndBoxes_10_t.png" id="251_4mqxu"]
+[ext_resource type="Texture2D" uid="uid://2ehw27a38hmo" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_120_t.PNG" id="251_f7qyj"]
+[ext_resource type="Texture2D" uid="uid://ravseecqj2vx" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_121_t.PNG" id="252_e6q3o"]
+[ext_resource type="Texture2D" uid="uid://2nwc6k4sioc1" path="res://assets/bagsanboxes/BagsAndBoxes_11_t.png" id="252_gh6fe"]
+[ext_resource type="Texture2D" uid="uid://bns6miqhrhsy3" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_122_t.PNG" id="253_junsx"]
+[ext_resource type="Texture2D" uid="uid://bifi2hvqgjn3v" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_123_t.PNG" id="254_75yx7"]
+[ext_resource type="Texture2D" uid="uid://bim8k7daeaqph" path="res://assets/bagsanboxes/BagsAndBoxes_13_t.PNG" id="254_j3eqf"]
+[ext_resource type="Texture2D" uid="uid://c6o8j3ac4cp2u" path="res://assets/bagsanboxes/BagsAndBoxes_14_t.png" id="255_1rarp"]
+[ext_resource type="Texture2D" uid="uid://bh4qw210clg1u" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_124_t.PNG" id="255_x0mwv"]
+[ext_resource type="Texture2D" uid="uid://dkr8ie02f8ixe" path="res://assets/witchcrafticons/WitchCraftIcons_transparent/addons/WitchCraftIcons_125_t.PNG" id="256_me865"]
+[ext_resource type="Texture2D" uid="uid://dj1swx2yjby5y" path="res://assets/bagsanboxes/BagsAndBoxes_15_t.png" id="256_th2bk"]
+[ext_resource type="Texture2D" uid="uid://cj4mfo4rqfv1" path="res://assets/bagsanboxes/BagsAndBoxes_16_t.png" id="257_mubai"]
+[ext_resource type="Texture2D" uid="uid://6l6iv2rttbqw" path="res://assets/bagsanboxes/BagsAndBoxes_18_t.png" id="258_eb458"]
+[ext_resource type="Texture2D" uid="uid://dmg5251qredsf" path="res://assets/bagsanboxes/BagsAndBoxes_19_t.PNG" id="259_3ebcg"]
+[ext_resource type="Texture2D" uid="uid://bun4reoukwngu" path="res://assets/bagsanboxes/BagsAndBoxes_20_t.PNG" id="260_umvt1"]
+[ext_resource type="Texture2D" uid="uid://nch0p5yc03ve" path="res://assets/bagsanboxes/BagsAndBoxes_21_t.png" id="261_e45gy"]
+[ext_resource type="Texture2D" uid="uid://o2o0qubqlm1w" path="res://assets/bagsanboxes/BagsAndBoxes_22_t.PNG" id="262_u2kb3"]
+[ext_resource type="Texture2D" uid="uid://c8nbaw1eoiiy8" path="res://assets/bagsanboxes/BagsAndBoxes_23_t.PNG" id="263_6qp15"]
+[ext_resource type="Texture2D" uid="uid://08illu41lhch" path="res://assets/bagsanboxes/BagsAndBoxes_24_t.PNG" id="264_xa3ep"]
+[ext_resource type="Texture2D" uid="uid://xtt6nkfpcxbj" path="res://assets/bagsanboxes/BagsAndBoxes_25_t.png" id="265_vvcg1"]
+[ext_resource type="Texture2D" uid="uid://dicvi3olvy3ie" path="res://assets/bagsanboxes/BagsAndBoxes_28_t.png" id="267_06svh"]
+[ext_resource type="Texture2D" uid="uid://q0ivpgldexx2" path="res://assets/bagsanboxes/BagsAndBoxes_29_t.png" id="268_mb28l"]
+[ext_resource type="Texture2D" uid="uid://beqdinq42t0mn" path="res://assets/bagsanboxes/BagsAndBoxes_30_t.png" id="269_3dwv6"]
+[ext_resource type="Texture2D" uid="uid://bgpun2sfbnwaf" path="res://assets/bagsanboxes/BagsAndBoxes_31_t.png" id="270_kcqck"]
+[ext_resource type="Texture2D" uid="uid://vxqfo7xu2g2e" path="res://assets/bagsanboxes/BagsAndBoxes_32_t.png" id="271_yv5a4"]
+[ext_resource type="Texture2D" uid="uid://dpojly5w4jr2f" path="res://assets/bagsanboxes/BagsAndBoxes_33_t.png" id="272_c1a60"]
+[ext_resource type="Texture2D" uid="uid://bq0r823xhmnob" path="res://assets/bagsanboxes/BagsAndBoxes_34_t.png" id="273_g5eua"]
+[ext_resource type="Texture2D" uid="uid://cldoloj02d8cc" path="res://assets/bagsanboxes/BagsAndBoxes_35_t.png" id="274_bugny"]
+[ext_resource type="Texture2D" uid="uid://bgtt48ccpq0k4" path="res://assets/bagsanboxes/BagsAndBoxes_36_t.PNG" id="275_rbllu"]
+[ext_resource type="Texture2D" uid="uid://d3340axcbdnxt" path="res://assets/bagsanboxes/BagsAndBoxes_37_t.png" id="276_12325"]
+[ext_resource type="Texture2D" uid="uid://desjx3ux22m6c" path="res://assets/bagsanboxes/BagsAndBoxes_38_t.png" id="277_t8qwi"]
+[ext_resource type="Texture2D" uid="uid://b75qwyluesim7" path="res://assets/bagsanboxes/BagsAndBoxes_39_t.png" id="278_xxoak"]
+[ext_resource type="Texture2D" uid="uid://fhq8u0euruul" path="res://assets/bagsanboxes/BagsAndBoxes_40_t.png" id="279_oad7l"]
+[ext_resource type="Texture2D" uid="uid://cefert1eh414e" path="res://assets/bagsanboxes/BagsAndBoxes_41_t.png" id="280_pvl87"]
+[ext_resource type="Texture2D" uid="uid://c7ky1w6krwlv1" path="res://assets/bagsanboxes/BagsAndBoxes_42_t.png" id="281_44gy5"]
+[ext_resource type="Texture2D" uid="uid://nha1bvjbulww" path="res://assets/bagsanboxes/BagsAndBoxes_43_t.png" id="282_udic3"]
+[ext_resource type="Texture2D" uid="uid://cck641rpkst3n" path="res://assets/bagsanboxes/BagsAndBoxes_44_t.png" id="283_1nj4r"]
+[ext_resource type="Texture2D" uid="uid://b1byota4c2dip" path="res://assets/bagsanboxes/BagsAndBoxes_45_t.png" id="284_y0h0f"]
+[ext_resource type="Texture2D" uid="uid://npxj2nucpy5u" path="res://assets/bagsanboxes/BagsAndBoxes_46_t.png" id="285_kbq6n"]
+[ext_resource type="Texture2D" uid="uid://cj3ihyyochxvm" path="res://assets/bagsanboxes/BagsAndBoxes_47_t.png" id="286_r4l2u"]
+[ext_resource type="Texture2D" uid="uid://bca3mciitbael" path="res://assets/bagsanboxes/BagsAndBoxes_48_t.png" id="287_li8md"]
+[ext_resource type="Texture2D" uid="uid://ucdcs3ximodp" path="res://assets/bagsanboxes/BagsAndBoxes_49_t.png" id="288_obgsr"]
+[ext_resource type="Texture2D" uid="uid://crixyd35xv41u" path="res://assets/bagsanboxes/BagsAndBoxes_50_t.png" id="289_fgfh1"]
+[ext_resource type="Texture2D" uid="uid://qq6grxrcsfw0" path="res://assets/bagsanboxes/BagsAndBoxes_51_t.png" id="290_soauv"]
+[ext_resource type="Texture2D" uid="uid://bwv75mro3htwe" path="res://assets/bagsanboxes/BagsAndBoxes_52_t.png" id="291_bj8v3"]
+[ext_resource type="Texture2D" uid="uid://dy7jj0eirhcjs" path="res://assets/bagsanboxes/BagsAndBoxes_53_t.png" id="292_d0jmf"]
+[ext_resource type="Texture2D" uid="uid://barws7q3pnk0" path="res://assets/bagsanboxes/BagsAndBoxes_54_t.png" id="293_5of1g"]
+[ext_resource type="Texture2D" uid="uid://cuohaahi2khmb" path="res://assets/bagsanboxes/BagsAndBoxes_55_t.png" id="294_2g53k"]
+[ext_resource type="Texture2D" uid="uid://dd2rncbcfd3hc" path="res://assets/bagsanboxes/BagsAndBoxes_56_t.png" id="295_g6b0i"]
+[ext_resource type="Texture2D" uid="uid://sau1biq7qm2p" path="res://assets/bagsanboxes/BagsAndBoxes_57_t.png" id="296_6xjjr"]
+[ext_resource type="Texture2D" uid="uid://dwoxxsbsjjtcx" path="res://assets/bagsanboxes/BagsAndBoxes_58_t.png" id="297_7jr4x"]
+[ext_resource type="Texture2D" uid="uid://b8d23n7k06i8h" path="res://assets/bagsanboxes/BagsAndBoxes_59_t.png" id="298_nq2f3"]
+[ext_resource type="Texture2D" uid="uid://2bqqqrk1afue" path="res://assets/bagsanboxes/BagsAndBoxes_60_t.png" id="299_tm3yp"]
+[ext_resource type="Texture2D" uid="uid://3j5crvqkdeyb" path="res://assets/bagsanboxes/BagsAndBoxes_61_t.png" id="300_h26m3"]
+[ext_resource type="Texture2D" uid="uid://cuoj7ywch01jk" path="res://assets/bagsanboxes/BagsAndBoxes_62_t.png" id="301_lfkux"]
+[ext_resource type="Texture2D" uid="uid://d1dh2hjkyqb0l" path="res://assets/bagsanboxes/BagsAndBoxes_63_t.png" id="302_gxdp2"]
+[ext_resource type="Texture2D" uid="uid://dnpcfp02um2cc" path="res://assets/bagsanboxes/BagsAndBoxes_64_t.png" id="303_4pp1t"]
+[ext_resource type="Texture2D" uid="uid://b75gxdm3k4y0" path="res://assets/bagsanboxes/BagsAndBoxes_65_t.png" id="304_rcycn"]
+[ext_resource type="Texture2D" uid="uid://c6dllfab7pmqh" path="res://assets/bagsanboxes/BagsAndBoxes_66_t.png" id="305_aypmh"]
+[ext_resource type="Texture2D" uid="uid://ddovbiisg4ecg" path="res://assets/bagsanboxes/BagsAndBoxes_67_t.PNG" id="306_bh0xd"]
+[ext_resource type="Texture2D" uid="uid://dl4uiwxoomo7q" path="res://assets/bagsanboxes/BagsAndBoxes_68_t.png" id="307_xvcjf"]
+[ext_resource type="Texture2D" uid="uid://b5qf7apgv81qo" path="res://assets/bagsanboxes/BagsAndBoxes_69_t.PNG" id="308_ac5cd"]
+[ext_resource type="Texture2D" uid="uid://7b3a1nr1pgwn" path="res://assets/bagsanboxes/BagsAndBoxes_70_t.PNG" id="309_lgx2a"]
+[ext_resource type="Texture2D" uid="uid://dwll80poora0n" path="res://assets/bagsanboxes/BagsAndBoxes_71_t.PNG" id="310_ui3ep"]
+[ext_resource type="Texture2D" uid="uid://dn4ld3flriaan" path="res://assets/bagsanboxes/BagsAndBoxes_72_t.PNG" id="311_00jlv"]
+[ext_resource type="Texture2D" uid="uid://budblp4mjxhvr" path="res://assets/bagsanboxes/BagsAndBoxes_73_t.PNG" id="312_igple"]
+[ext_resource type="Texture2D" uid="uid://bj8j3eto1qncn" path="res://assets/bagsanboxes/BagsAndBoxes_74_t.png" id="313_iathd"]
+[ext_resource type="Texture2D" uid="uid://bpcxvyr1m3mi2" path="res://assets/bagsanboxes/BagsAndBoxes_75_t.PNG" id="314_51jtt"]
+[ext_resource type="Texture2D" uid="uid://duuhbwfnbgv86" path="res://assets/bagsanboxes/BagsAndBoxes_76_t.PNG" id="315_ubj1h"]
+[ext_resource type="Texture2D" uid="uid://deb2dggwmxbhh" path="res://assets/bagsanboxes/BagsAndBoxes_77_t.PNG" id="316_fsyyy"]
+[ext_resource type="Texture2D" uid="uid://wn07wolm3x48" path="res://assets/bagsanboxes/BagsAndBoxes_79_t.png" id="318_mkuq5"]
+[ext_resource type="Texture2D" uid="uid://81yxl0gg5e5y" path="res://assets/bagsanboxes/BagsAndBoxes_80_t.PNG" id="319_2jasf"]
+[ext_resource type="Texture2D" uid="uid://cq3k0swq5yd06" path="res://assets/bagsanboxes/BagsAndBoxes_81_t.PNG" id="320_6nsx1"]
+[ext_resource type="Texture2D" uid="uid://b82k7lh4u2me7" path="res://assets/bagsanboxes/BagsAndBoxes_82_t.png" id="321_t1s6r"]
+[ext_resource type="Texture2D" uid="uid://dss41riron404" path="res://assets/bagsanboxes/BagsAndBoxes_83_t.png" id="322_q1vxo"]
+[ext_resource type="Texture2D" uid="uid://w0ojr5472fj8" path="res://assets/bagsanboxes/BagsAndBoxes_84_t.png" id="323_c62ql"]
+[ext_resource type="Texture2D" uid="uid://bk8lr46jwbmhy" path="res://assets/bagsanboxes/BagsAndBoxes_86_t.png" id="325_s3ay7"]
+[ext_resource type="Texture2D" uid="uid://kx1ih8hruvok" path="res://assets/bagsanboxes/BagsAndBoxes_87_t.png" id="326_6cgjk"]
+[ext_resource type="Texture2D" uid="uid://dj6ldfyn374sf" path="res://assets/bagsanboxes/BagsAndBoxes_88_t.png" id="327_g7o04"]
+[ext_resource type="Texture2D" uid="uid://bfs2mgsjewhge" path="res://assets/bagsanboxes/BagsAndBoxes_89_t.png" id="328_gdlec"]
+[ext_resource type="Texture2D" uid="uid://mlncpn7edfrt" path="res://assets/bagsanboxes/BagsAndBoxes_90_t.PNG" id="329_7orna"]
+[ext_resource type="Texture2D" uid="uid://dh8i0e3md5m3v" path="res://assets/bagsanboxes/BagsAndBoxes_91_t.PNG" id="330_aslqi"]
+[ext_resource type="Texture2D" uid="uid://blhts5v4ejhdg" path="res://assets/bagsanboxes/BagsAndBoxes_93_t.PNG" id="332_5o2o1"]
+[ext_resource type="Texture2D" uid="uid://xlocshwuu83t" path="res://assets/bagsanboxes/BagsAndBoxes_94_t.PNG" id="333_gong2"]
+[ext_resource type="Texture2D" uid="uid://dqcif6j64oj2b" path="res://assets/bagsanboxes/BagsAndBoxes_95_t.png" id="334_04goy"]
+[ext_resource type="Texture2D" uid="uid://vu7rkmb7yijx" path="res://assets/bagsanboxes/BagsAndBoxes_96_t.PNG" id="335_wumvd"]
+[ext_resource type="Texture2D" uid="uid://bf2373pe8gukx" path="res://assets/bagsanboxes/BagsAndBoxes_97_t.png" id="336_brc3m"]
+[ext_resource type="Texture2D" uid="uid://bupi6ofsaw82q" path="res://assets/bagsanboxes/BagsAndBoxes_98_t.png" id="337_t783p"]
+[ext_resource type="Texture2D" uid="uid://d2udi1mwdinsi" path="res://assets/bagsanboxes/BagsAndBoxes_99_t.png" id="338_7khsu"]
+[ext_resource type="Texture2D" uid="uid://dku723x758b88" path="res://assets/bagsanboxes/BagsAndBoxes_100_t.png" id="339_s6dil"]
+[ext_resource type="Texture2D" uid="uid://chlwme5oo260j" path="res://assets/bagsanboxes/BagsAndBoxes_101_t.PNG" id="340_v8cra"]
+[ext_resource type="Texture2D" uid="uid://cv61x4fvwspui" path="res://assets/bagsanboxes/BagsAndBoxes_102_t.PNG" id="341_88lfl"]
+[ext_resource type="Texture2D" uid="uid://bkmvp6njsic5" path="res://assets/bagsanboxes/BagsAndBoxes_103_t.png" id="342_sv5e2"]
+[ext_resource type="Texture2D" uid="uid://bmkq6b18aov5j" path="res://assets/bagsanboxes/BagsAndBoxes_104_t.png" id="343_ns82x"]
+[ext_resource type="Texture2D" uid="uid://d0r01aqkrd85j" path="res://assets/bagsanboxes/BagsAndBoxes_105_t.png" id="344_64ykk"]
+[ext_resource type="Texture2D" uid="uid://cytqc6jvpo1en" path="res://assets/bagsanboxes/BagsAndBoxes_106_t.png" id="345_p7b0o"]
+[ext_resource type="Texture2D" uid="uid://dnkfi3sgbr74" path="res://assets/bagsanboxes/BagsAndBoxes_107_t.png" id="346_06rpn"]
+[ext_resource type="Texture2D" uid="uid://hfebkcnpa8f8" path="res://assets/bagsanboxes/BagsAndBoxes_108_t.png" id="347_vdeil"]
+[ext_resource type="Texture2D" uid="uid://bfo6qfh2jcg27" path="res://assets/bagsanboxes/BagsAndBoxes_109_t.png" id="348_vqybj"]
+[ext_resource type="Texture2D" uid="uid://dnlcqtj258kqs" path="res://assets/bagsanboxes/BagsAndBoxes_110_t.png" id="349_1enye"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_2y4ps")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_4wkb8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_2qfjg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_db8ns")
+}, {
+"duration": 1.0,
+"texture": ExtResource("244_g3b4m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_6o2a4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_4b0vd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_tmycu")
+}],
+"loop": true,
+"name": &"default",
+"speed": 2.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_2y4ps")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_27or0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_bvbmo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_gxgtv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_pqw5o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_fcv18")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_fwpsk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_rpmyi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_6am15")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_lvhof")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_sqktt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_lcr6d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_f78r7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_e4nan")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_xmeu1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_a4p4k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_h86ue")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_xmde8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_w4q0b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_ogl5q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_rg3xk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_kyi65")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_1r0rf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_htm0k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_ufl0v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_yeavu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_j7sqr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_1wt71")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_hkft0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_5am8v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_05xn1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_aj7jm")
+}],
+"loop": true,
+"name": &"flowers",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("45_4wkb8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_2duls")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_omp0y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_07b3n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_jc3wc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_b1uty")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_hs0l1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_eg2hw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_m45am")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_5uc34")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_o4cuj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_015yv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_n7v5d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_cvb25")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_4e6o1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_a35to")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_dan40")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_y2ydu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_drp7y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_ppx2n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_h8pm7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_vjwyf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_70c3b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_wmyik")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_hnla6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_uf31w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_abvfc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_5qxyp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_gt54x")
+}],
+"loop": true,
+"name": &"fruitage",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("97_2qfjg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_bhfod")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_s4cv8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_8yocd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_ycbxp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_xg0x5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_v28ek")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_5a5m5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_7rtmk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_bjua7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_o0mwe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_p4mo7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_g8jxn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_jfluy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_wa8j5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_mrh6x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_c82b8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_lisv6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_0r2oa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_32iua")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_ww6sv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_n1qg8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_oo6q5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_qbnjm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_gwmg1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_owiuj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_cromy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_ujx5c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_4c1ab")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_q7ppn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_fneid")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_dm3mc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_ulrkd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_i57ui")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_nsp73")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_3fr0c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_2mdnh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_crrbo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_snkwf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_miwme")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_fmu8v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_aio40")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_nxwww")
+}],
+"loop": true,
+"name": &"grass",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("109_db8ns")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_t02mf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_o3buk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_jso2w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_thvu1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_6cub2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_cpilp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_37uvq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_ainjs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_m4xxv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_plsjn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_lx7sm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_wi7e7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_eoj4l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_j8p8p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_tsdkl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_7w8bg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_bcxgk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_t7hub")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_odg1r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_qgftb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_d8al3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_irvwb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_t3nl7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_nceo5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_yhpod")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_gpyhu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_8kpeh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_sv0ke")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_vuadl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_geuns")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_q12qk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_16sll")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_sp0i4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_lo7wk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_pbm0h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_na2qd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_ulm2x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_hroay")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_dayit")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_gtvwi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_scyu0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_uqslu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_8h2m6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_y75yr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_1w5bo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_vhuce")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_6fuw1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_nkail")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_0mh3u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_uvraa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_qhofh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_b0s5q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_ess0l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_oka7x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_i7ib6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_2mcgj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_wgle2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_jcr6e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_5sk1y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_3qje5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_2vx6n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_tdvkk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_m6h1m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_7wi4c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_6bbk2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_jm0j8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_ptpvm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_molvc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_ktg1k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_vnhbv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_2uxrj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_p0w87")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_vu7s0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("183_dog8m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("184_cnxrl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("185_a3hlg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("186_eq1fa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("187_ok7h4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("188_ao4ds")
+}, {
+"duration": 1.0,
+"texture": ExtResource("189_tuohj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("190_h5mec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("191_4sdvo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("192_4am3e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("193_vskwk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("194_2p6rb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("195_3vjed")
+}, {
+"duration": 1.0,
+"texture": ExtResource("196_qfhig")
+}, {
+"duration": 1.0,
+"texture": ExtResource("197_8xgc4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("198_jxq7s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_gyjb6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("199_7litq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("200_xcg5r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("201_pxyu4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("202_2llrp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("203_cxh8f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("204_bdhmj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("205_f55h6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("206_l5wa8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("207_ckc2m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("208_ie3vv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("209_d6eum")
+}, {
+"duration": 1.0,
+"texture": ExtResource("210_0ec24")
+}, {
+"duration": 1.0,
+"texture": ExtResource("211_p531e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("212_pyih0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("213_u3e5t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("214_0srfy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("215_r7p27")
+}, {
+"duration": 1.0,
+"texture": ExtResource("216_pwec7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("217_s10aw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("218_0nl4r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("219_e1w6k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("220_0eelp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("221_ubjtj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("222_5xoct")
+}, {
+"duration": 1.0,
+"texture": ExtResource("223_a0vn1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("224_qie2l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("225_b8xd5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("226_xgfml")
+}, {
+"duration": 1.0,
+"texture": ExtResource("227_3t86l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("228_v0acu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("229_koqpg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("230_lfxh0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("231_4hm4n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("232_12fy0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("233_gci0v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("234_wb4mr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("235_phl4u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("236_er88w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("237_fmynp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("238_o3qy7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("239_8x30c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("240_c8nul")
+}],
+"loop": true,
+"name": &"hunting",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("244_g3b4m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("243_st3pl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("245_j7t4w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("246_v8a0y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("247_o1sep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("250_r3dm3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("251_4mqxu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("252_gh6fe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("254_j3eqf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("255_1rarp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("256_th2bk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("257_mubai")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_2aiey")
+}, {
+"duration": 1.0,
+"texture": ExtResource("258_eb458")
+}, {
+"duration": 1.0,
+"texture": ExtResource("259_3ebcg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("260_umvt1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("261_e45gy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("262_u2kb3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("263_6qp15")
+}, {
+"duration": 1.0,
+"texture": ExtResource("264_xa3ep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("265_vvcg1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("267_06svh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("268_mb28l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("269_3dwv6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("270_kcqck")
+}, {
+"duration": 1.0,
+"texture": ExtResource("271_yv5a4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("272_c1a60")
+}, {
+"duration": 1.0,
+"texture": ExtResource("273_g5eua")
+}, {
+"duration": 1.0,
+"texture": ExtResource("274_bugny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("275_rbllu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("276_12325")
+}, {
+"duration": 1.0,
+"texture": ExtResource("277_t8qwi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("278_xxoak")
+}, {
+"duration": 1.0,
+"texture": ExtResource("279_oad7l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("280_pvl87")
+}, {
+"duration": 1.0,
+"texture": ExtResource("281_44gy5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("282_udic3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("283_1nj4r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("284_y0h0f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("285_kbq6n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("286_r4l2u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("287_li8md")
+}, {
+"duration": 1.0,
+"texture": ExtResource("288_obgsr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("289_fgfh1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("290_soauv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("291_bj8v3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("292_d0jmf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("293_5of1g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("294_2g53k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("295_g6b0i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("296_6xjjr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("297_7jr4x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("298_nq2f3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("299_tm3yp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("300_h26m3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("301_lfkux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("302_gxdp2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("303_4pp1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("304_rcycn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("305_aypmh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("306_bh0xd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("307_xvcjf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("308_ac5cd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("309_lgx2a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("310_ui3ep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("311_00jlv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("312_igple")
+}, {
+"duration": 1.0,
+"texture": ExtResource("313_iathd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("314_51jtt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("315_ubj1h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("316_fsyyy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("318_mkuq5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("319_2jasf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("320_6nsx1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("321_t1s6r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("322_q1vxo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("323_c62ql")
+}, {
+"duration": 1.0,
+"texture": ExtResource("325_s3ay7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("326_6cgjk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("327_g7o04")
+}, {
+"duration": 1.0,
+"texture": ExtResource("328_gdlec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("329_7orna")
+}, {
+"duration": 1.0,
+"texture": ExtResource("330_aslqi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("332_5o2o1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("333_gong2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("334_04goy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("335_wumvd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("336_brc3m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("337_t783p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("338_7khsu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("339_s6dil")
+}, {
+"duration": 1.0,
+"texture": ExtResource("340_v8cra")
+}, {
+"duration": 1.0,
+"texture": ExtResource("341_88lfl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("342_sv5e2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("343_ns82x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("344_64ykk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("345_p7b0o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("346_06rpn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("347_vdeil")
+}, {
+"duration": 1.0,
+"texture": ExtResource("348_vqybj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("349_1enye")
+}],
+"loop": true,
+"name": &"lootpacks",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("4_6o2a4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_aw74k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_kakaw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_q34fa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_ivx50")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_j8337")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_8c6rw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_1p8kn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_d37yn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_q8lri")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_0kbq3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_nrppi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_sk7u1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_ersj3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_plkn1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_txyrc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_5bqni")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_g5c02")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_braah")
+}],
+"loop": true,
+"name": &"mushrooms",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("128_4b0vd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_6xcuo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_mnbqw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_vd76q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_nus2q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_iynev")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_n8jkv")
+}],
+"loop": true,
+"name": &"roots",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("150_tmycu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_mtich")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_s57l6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_i5olq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_s2k2b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_mshd8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_e8i4k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_m3wfh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_qbqyy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_8vwyi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_8oayo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_4mbmd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_36s4b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_33dxr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_ed77c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_wergf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_a5ama")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_f4kml")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_r3aq4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_xrmoq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_f8kda")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_vc8we")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_v6epl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_58ywr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_gi74i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_dgjt2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_rq2ub")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_rup5i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_6eu51")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_k6qsy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_tc6jx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_aw424")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_xtuqh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_51oja")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_qotgo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_lw4vf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_0f5ai")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_f46vf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_c6bga")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_bn85i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_khupx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_ph40e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_331o1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_ecscj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_x7wed")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_2apmd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_kjvr5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_f4dni")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_8hhgn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_07cim")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_4boda")
+}, {
+"duration": 1.0,
+"texture": ExtResource("183_xah7v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("184_xc407")
+}, {
+"duration": 1.0,
+"texture": ExtResource("185_pohly")
+}, {
+"duration": 1.0,
+"texture": ExtResource("186_enqa4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("187_aophe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("188_2a3wo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("189_p8o8i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("190_wlomr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("191_sylvx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("192_hcn3u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("193_3lbi7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("194_ber4c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("195_6rcew")
+}, {
+"duration": 1.0,
+"texture": ExtResource("196_huj31")
+}, {
+"duration": 1.0,
+"texture": ExtResource("197_p42k1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("198_w03qf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("199_vt5v6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("200_epfiw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("201_ul6kg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("202_612dn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("203_cgkfc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("204_tmu0c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("205_k6d6i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("206_k13t1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("207_x24h8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("208_tn3dj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("209_r71k1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("210_f76oc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("211_ikwnc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("212_rf722")
+}, {
+"duration": 1.0,
+"texture": ExtResource("213_ofdyc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("214_qavcx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("215_pmvdt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("216_1tnhg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("217_4hoht")
+}, {
+"duration": 1.0,
+"texture": ExtResource("218_77weg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("219_bfot6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("220_hv4pe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("221_g6i8o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("222_kjwx8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("223_pdjy1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("224_xkv5a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("225_und71")
+}, {
+"duration": 1.0,
+"texture": ExtResource("226_jdhyt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("227_fwjpj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("228_80tcs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("229_qnroy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("230_32blc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("231_ntofm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("232_5utue")
+}, {
+"duration": 1.0,
+"texture": ExtResource("233_r5gkx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("234_a3ara")
+}, {
+"duration": 1.0,
+"texture": ExtResource("235_p21lh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("236_xpao4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("237_f1yvg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("238_d7ved")
+}, {
+"duration": 1.0,
+"texture": ExtResource("239_be2ec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("240_rt3jx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("241_06iw8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("242_qwku4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("243_5caur")
+}, {
+"duration": 1.0,
+"texture": ExtResource("244_itvvq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("245_5dng3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("246_cj50j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("247_ruxpx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("248_hgs7a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("249_nh1ot")
+}, {
+"duration": 1.0,
+"texture": ExtResource("250_dd12l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("251_f7qyj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("252_e6q3o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("253_junsx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("254_75yx7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("255_x0mwv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("256_me865")
+}],
+"loop": true,
+"name": &"witchcraft",
+"speed": 5.0
+}]

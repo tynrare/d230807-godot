@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Texture2D" uid="uid://v428jrst4ebt" path="res://beehives/tilemap_prompts_packed.png" id="2_o8nee"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_bmw8l"]
+atlas = ExtResource("2_o8nee")
+region = Rect2(528, 256, 16, 16)
+
+[node name="mushroom" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+visible = false
+texture = SubResource("AtlasTexture_bmw8l")

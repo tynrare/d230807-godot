@@ -1,0 +1,34 @@
+[gd_scene load_steps=8 format=3 uid="uid://d122cx78wj2ry"]
+
+[ext_resource type="PackedScene" uid="uid://pdxq3isoyfi3" path="res://assets/dust/candle.gltf.glb" id="1_33mjv"]
+[ext_resource type="PackedScene" uid="uid://bx3sm0wy0rijl" path="res://assets/dust/wall.gltf.glb" id="2_t8iof"]
+[ext_resource type="PackedScene" uid="uid://dgafdbnt11ptr" path="res://assets/dust/table_medium.gltf.glb" id="3_eg65f"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_tdy35"]
+
+[sub_resource type="Sky" id="Sky_gpgxs"]
+sky_material = SubResource("ProceduralSkyMaterial_tdy35")
+
+[sub_resource type="Environment" id="Environment_fqyji"]
+background_mode = 2
+sky = SubResource("Sky_gpgxs")
+
+[sub_resource type="CameraAttributesPractical" id="CameraAttributesPractical_deie8"]
+
+[node name="root" type="Node3D"]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.61339, 0.318119, -0.722878, 0, 0.91529, 0.402795, 0.78978, -0.24707, 0.56143, -5, 5.48147, 1)
+
+[node name="candlegltf" parent="." instance=ExtResource("1_33mjv")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.205093, 0.981423, -2.06134)
+
+[node name="wallgltf" parent="." instance=ExtResource("2_t8iof")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00233757, 0, -3.35852)
+
+[node name="table_mediumgltf" parent="." instance=ExtResource("3_eg65f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0347271, 0, -1.96357)
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_fqyji")
+camera_attributes = SubResource("CameraAttributesPractical_deie8")

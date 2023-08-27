@@ -1,0 +1,127 @@
+[gd_scene load_steps=14 format=3 uid="uid://b1y45lg5cwn3m"]
+
+[ext_resource type="TileSet" uid="uid://cnev6jk8ok5ln" path="res://dust/d230814/tile_set_d230814.tres" id="1_65bqg"]
+[ext_resource type="Texture2D" uid="uid://bewsnygfnyoly" path="res://assets/characters/char_blue_1.png" id="2_jxppb"]
+
+[sub_resource type="GDScript" id="GDScript_2fr78"]
+script/source = "extends Sprite2D
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	$AnimationTree.active = true;
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta):
+	var input = Vector2(0, 0);
+	if Input.is_action_pressed(\"input_right\"):
+		flip_h = false;
+		input.x = 1;
+	elif Input.is_action_pressed(\"input_left\"):
+		flip_h = true;
+		input.x = -1;
+		
+	$AnimationTree.set('parameters/Walk/blend_position', input.x);
+	#$AnimationTree.get('parameters/playback').travel('Idle');
+		
+	pass
+"
+
+[sub_resource type="Animation" id="Animation_om0tt"]
+resource_name = "idle"
+length = 0.6
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("..:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [0, 1, 2, 3, 4, 5]
+}
+
+[sub_resource type="Animation" id="Animation_vaw7h"]
+resource_name = "walk"
+length = 0.8
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("..:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [16, 17, 18, 19, 20, 21, 22, 23]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_m3ngp"]
+_data = {
+"idle": SubResource("Animation_om0tt"),
+"walk": SubResource("Animation_vaw7h")
+}
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_0bosr"]
+animation = &"idle"
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_w04xv"]
+animation = &"walk"
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_k1fse"]
+animation = &"walk"
+
+[sub_resource type="AnimationNodeBlendSpace1D" id="AnimationNodeBlendSpace1D_4888a"]
+blend_point_0/node = SubResource("AnimationNodeAnimation_0bosr")
+blend_point_0/pos = 0.0
+blend_point_1/node = SubResource("AnimationNodeAnimation_w04xv")
+blend_point_1/pos = 1.0
+blend_point_2/node = SubResource("AnimationNodeAnimation_k1fse")
+blend_point_2/pos = -1.0
+blend_mode = 1
+
+[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_1ky2y"]
+advance_mode = 2
+
+[sub_resource type="AnimationNodeStateMachine" id="AnimationNodeStateMachine_d8q22"]
+states/Start/position = Vector2(144, 84)
+states/Walk/node = SubResource("AnimationNodeBlendSpace1D_4888a")
+states/Walk/position = Vector2(465, 122)
+transitions = ["Start", "Walk", SubResource("AnimationNodeStateMachineTransition_1ky2y")]
+
+[sub_resource type="AnimationNodeStateMachinePlayback" id="AnimationNodeStateMachinePlayback_xeyyj"]
+
+[node name="scene_d230814" type="Node2D"]
+
+[node name="TileMap" type="TileMap" parent="."]
+tile_set = ExtResource("1_65bqg")
+format = 2
+layer_0/tile_data = PackedInt32Array(262145, 65536, 0, 262146, 131072, 0, 262147, 131072, 0, 327685, 589824, 1, 262148, 131072, 0, 262149, 131072, 0, 262150, 196608, 0, 524288, 65536, 2, 524289, 131072, 2, 524290, 131072, 2, 524291, 131072, 2, 524292, 131072, 2, 524293, 131072, 2, 524294, 131072, 2, 524295, 131072, 2, 524296, 131072, 2, 524297, 131072, 2, 524298, 131072, 2, 524299, 131072, 2, 524300, 131072, 2, 524301, 196608, 2, 458752, 65536, 1, 458765, 196608, 1, 393229, 262144, 4, 393216, 262144, 4, 327680, 262144, 3, 327693, 262144, 3, 262157, 262144, 3, 262144, 262144, 3, 196608, 262144, 3, 196621, 262144, 3, 131072, 262144, 3, 131085, 262144, 3, 65536, 262144, 3, 0, 262144, 2, 458760, 131072, 1, 393224, 262144, 4, 327688, 262144, 3, 262152, 262144, 3, 196616, 262144, 3, 131080, 262144, 3, 65543, 262144, 0, 65544, 327680, 0, 65545, 327680, 0, 65546, 327680, 0, 65547, 327680, 0, 65548, 327680, 0, 65549, 327680, 0, 65550, 393216, 0, 458753, 131072, 1, 458754, 131072, 1, 458755, 131072, 1, 458756, 131072, 1, 458757, 131072, 1, 458758, 131072, 1, 458759, 131072, 1, 458761, 131072, 1, 458762, 131072, 1, 458763, 131072, 1, 458764, 131072, 1)
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(58, 37)
+texture = ExtResource("2_jxppb")
+hframes = 8
+vframes = 11
+frame = 1
+script = SubResource("GDScript_2fr78")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Sprite2D"]
+root_node = NodePath("../AnimationTree")
+libraries = {
+"": SubResource("AnimationLibrary_m3ngp")
+}
+
+[node name="AnimationTree" type="AnimationTree" parent="Sprite2D"]
+tree_root = SubResource("AnimationNodeStateMachine_d8q22")
+anim_player = NodePath("../AnimationPlayer")
+active = true
+parameters/playback = SubResource("AnimationNodeStateMachinePlayback_xeyyj")
+parameters/Walk/blend_position = 0.0

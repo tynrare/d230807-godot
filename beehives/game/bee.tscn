@@ -1,0 +1,25 @@
+[gd_scene load_steps=5 format=3 uid="uid://dn3xoda5fpsli"]
+
+[ext_resource type="Script" path="res://beehives/game/bee.gd" id="1_1ijdg"]
+[ext_resource type="Texture2D" uid="uid://v428jrst4ebt" path="res://beehives/tilemap_prompts_packed.png" id="2_p2vg8"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_rihcp"]
+atlas = ExtResource("2_p2vg8")
+region = Rect2(528, 256, 16, 16)
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_lp0lk"]
+radius = 22.0
+
+[node name="bee" type="Node2D"]
+script = ExtResource("1_1ijdg")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = SubResource("AtlasTexture_rihcp")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("CircleShape2D_lp0lk")
+
+[connection signal="area_entered" from="Area2D" to="." method="_on_area_2d_area_entered"]
+[connection signal="area_exited" from="Area2D" to="." method="_on_area_2d_area_exited"]
